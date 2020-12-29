@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **geekayush.srtv@gmail.com**
 
-- ⚡ Fun fact **Programming is not stressful at all.**
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
