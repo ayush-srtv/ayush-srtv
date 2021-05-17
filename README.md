@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Web Assembly, Typescript, Deno**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayush-srtv](https://github.com/ayush-srtv)
+- 👨‍💻 All of my projects are available at [https://github.com/ayush-srtv?tab=repositories](https://github.com/ayush-srtv?tab=repositories)
 
 - 💬 Ask me about **React, Node**
 
